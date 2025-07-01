@@ -1,0 +1,609 @@
+Index,Series Name,Network,Season,Title,IMDB,Engagement,Date Aired,Run Time,Format
+1,"Scooby Doo, Where Are You!",CBS,1,What a Night for a Knight,8.1,556,9/13/1969,21 mins,TV Series
+2,"Scooby Doo, Where Are You!",CBS,1,A Clue for Scooby Doo,8.1,479,9/20/1969,22 mins,TV Series
+3,"Scooby Doo, Where Are You!",CBS,1,Hassle in the Castle,8,455,9/27/1969,21 mins,TV Series
+4,"Scooby Doo, Where Are You!",CBS,1,Mine Your Own Business,7.8,426,10/4/1969,21 mins,TV Series
+5,"Scooby Doo, Where Are You!",CBS,1,Decoy for a Dognapper,7.5,391,10/11/1969,21 mins,TV Series
+6,"Scooby Doo, Where Are You!",CBS,1,What the Hex Going On?,8.4,384,10/18/1969,21 mins,TV Series
+7,"Scooby Doo, Where Are You!",CBS,1,Never Ape an Ape Man,7.6,358,10/25/1969,21 mins,TV Series
+8,"Scooby Doo, Where Are You!",CBS,1,Foul Play in Funland,8.2,358,11/1/1969,21 mins,TV Series
+9,"Scooby Doo, Where Are You!",CBS,1,The Backstage Rage,8.1,371,11/8/1969,21 mins,TV Series
+10,"Scooby Doo, Where Are You!",CBS,1,Bedlam in the Big Top,8,346,11/15/1969,21 mins,TV Series
+11,"Scooby Doo, Where Are You!",CBS,1,A Gaggle of Galloping Ghosts,8.5,379,11/22/1969,21 mins,TV Series
+12,"Scooby Doo, Where Are You!",CBS,1,"Scooby-Doo and a Mummy, Too",8.2,358,11/29/1969,21 mins,TV Series
+13,"Scooby Doo, Where Are You!",CBS,1,Which Witch is Which,8.4,356,12/6/1969,21 mins,TV Series
+14,"Scooby Doo, Where Are You!",CBS,1,Go Away Ghost Ship,8.1,331,12/13/1969,22 mins,TV Series
+15,"Scooby Doo, Where Are You!",CBS,1,Spooky Space Kook,8.4,372,12/20/1969,21 mins,TV Series
+16,"Scooby Doo, Where Are You!",CBS,1,A Night of Fright Is No Delight,8.7,403,1/10/1970,21 mins,TV Series
+17,"Scooby Doo, Where Are You!",CBS,1,That's Snow Ghost,8,328,1/17/1970,21 mins,TV Series
+18,"Scooby Doo, Where Are You!",CBS,2,Nowhere to Hyde,8.3,322,9/12/1970,21 mins,TV Series
+19,"Scooby Doo, Where Are You!",CBS,2,Mystery Mask Mix-Up,7.8,312,9/19/1970,21 mins,TV Series
+20,"Scooby Doo, Where Are You!",CBS,2,Scooby's Night with a Frozen Fright,7.7,301,9/26/1970,21 mins,TV Series
+21,"Scooby Doo, Where Are You!",CBS,2,"Jeepers, It's the Creeper",8.5,347,10/3/1970,21 mins,TV Series
+22,"Scooby Doo, Where Are You!",CBS,2,Haunted House Hang-Up,8.4,303,10/10/1970,21 mins,TV Series
+23,"Scooby Doo, Where Are You!",CBS,2,A Tiki Scare Is No Fair,7.9,292,10/17/1970,21 mins,TV Series
+24,"Scooby Doo, Where Are You!",CBS,2,Who's Afraid of the Big Bad Werewolf?,8.2,292,10/24/1970,NULL,TV Series
+25,"Scooby Doo, Where Are You!",CBS,2,Who's Afraid of the Big Bad Werewolf?,8.2,292,10/24/1970,21 mins,TV Series
+26,"Scooby Doo, Where Are You!",CBS,2,Don't Fool with a Phantom,7.9,282,10/31/1970,21 mins,TV Series
+27,The New Scooby-Doo Movies,CBS,1,The Ghastly Ghost Town,6.9,138,9/9/1972,43 mins,TV Series
+28,The New Scooby-Doo Movies,CBS,1,The Dynamic Scooby-Doo Affair,7.8,232,9/16/1972,41 mins,TV Series
+29,The New Scooby-Doo Movies,CBS,1,Wednesday Is Missing,7.9,119,9/23/1972,41 mins,TV Series
+30,The New Scooby-Doo Movies,CBS,1,The Frickert Fracas,7.9,116,9/30/1972,43 mins,TV Series
+31,The New Scooby-Doo Movies,CBS,1,Guess Who's Knott Coming to Dinner?,7.9,111,10/7/1972,43 mins,TV Series
+32,The New Scooby-Doo Movies,CBS,1,A Good Medium Is Rare,7.7,88,10/14/1972,41 mins,TV Series
+33,The New Scooby-Doo Movies,CBS,1,Sandy Duncan's Jekyll and Hyde,7.8,90,10/21/1972,41 mins,TV Series
+34,The New Scooby-Doo Movies,CBS,1,The Secret of Shark Island,8.5,109,10/28/1972,41 mins,TV Series
+35,The New Scooby-Doo Movies,CBS,1,The Spooky Fog of Juneberry,7.7,96,11/4/1972,43 mins,TV Series
+36,The New Scooby-Doo Movies,CBS,1,The Ghost of Bigfoot,8.3,118,11/11/1972,43 mins,TV Series
+37,The New Scooby-Doo Movies,CBS,1,The Ghost of the Red Baron,7.6,86,11/18/1972,43 mins,TV Series
+38,The New Scooby-Doo Movies,CBS,1,The Ghostly Creep from the Deep,7.4,90,11/25/1972,43 mins,TV Series
+39,The New Scooby-Doo Movies,CBS,1,The Haunted Horseman of Hagglethorn Hall,7.8,86,12/2/1972,41 mins,TV Series
+40,The New Scooby-Doo Movies,CBS,1,The Phantom of the Country Music Hall,7.6,81,12/9/1972,41 mins,TV Series
+41,The New Scooby-Doo Movies,CBS,1,The Caped Crusader Caper,7.2,183,12/16/1972,43 mins,TV Series
+42,The New Scooby-Doo Movies,CBS,1,The Lochness Mess,7.9,114,12/23/1972,43 mins,TV Series
+43,The New Scooby-Doo Movies,CBS,2,The Mystery of Haunted Island,7.4,103,9/8/1973,44 mins,TV Series
+44,The New Scooby-Doo Movies,CBS,2,The Haunted Showboat,7.9,82,9/15/1973,43 mins,TV Series
+45,The New Scooby-Doo Movies,CBS,2,Mystery in Persia,7.5,82,9/22/1973,43 mins,TV Series
+46,The New Scooby-Doo Movies,CBS,2,The Spirited Spooked Sports Show,7.4,73,9/29/1973,43 mins,TV Series
+47,The New Scooby-Doo Movies,CBS,2,The Exterminator,7.6,85,10/6/1973,44 mins,TV Series
+48,The New Scooby-Doo Movies,CBS,2,The Weird Winds of Winona,7.3,91,10/13/1973,44 mins,TV Series
+49,The New Scooby-Doo Movies,CBS,2,The Haunted Candy Factory,7.8,104,10/20/1973,43 mins,TV Series
+50,The New Scooby-Doo Movies,CBS,2,The Haunted Carnival,7.6,92,10/27/1973,43 mins,TV Series
+51,The Scooby-Doo Show,ABC,1,High Rise Hair Raiser,7.6,112,9/11/1976,24 mins,TV Series
+52,"Dynomutt, Dogwonder",ABC,Crossover,Everyone Hyde!,7.2,12,9/11/1976,22 mins,Crossover
+53,The Scooby-Doo Show,ABC,1,The Fiesta Host is an Aztec Ghost,7.4,97,9/18/1976,24 mins,TV Series
+54,"Dynomutt, Dogwonder",ABC,Crossover,"What Now, Lowbrow?",6.9,11,9/18/1976,22 mins,Crossover
+55,The Scooby-Doo Show,ABC,1,The Gruesome Game of the Gator Ghoul,7.5,95,9/25/1976,24 mins,TV Series
+56,The Scooby-Doo Show,ABC,1,Whatta Shocking Ghost,8,101,10/2/1976,24 mins,TV Series
+57,The Scooby-Doo Show,ABC,1,The Headless Horseman of Halloween,8,127,10/9/1976,24 mins,TV Series
+58,The Scooby-Doo Show,ABC,1,Scared a Lot in Camelot,7.6,93,10/16/1976,24 mins,TV Series
+59,The Scooby-Doo Show,ABC,1,The Harum-Scarum Sanitarium,8.2,99,10/23/1976,24 mins,TV Series
+60,The Scooby-Doo Show,ABC,1,The No-Face Zombie Chase Case,7.7,91,10/30/1976,24 mins,TV Series
+61,The Scooby-Doo Show,ABC,1,Mamba Wamba and the Voodoo Hoodoo,7,81,11/6/1976,24 mins,TV Series
+62,The Scooby-Doo Show,ABC,1,A Frightened Hound Meets Demons Underground,7.4,84,11/13/1976,NULL,TV Series
+63,"Dynomutt, Dogwonder",ABC,Crossover,The Wizard of Ooze,6.3,7,11/13/1976,22 mins,Crossover
+64,The Scooby-Doo Show,ABC,1,A Bum Steer for Scooby,6.8,84,11/20/1976,24 mins,TV Series
+65,The Scooby-Doo Show,ABC,1,There's a Demon Shark in the Foggy Dark,7.2,80,11/25/1976,24 mins,TV Series
+66,The Scooby-Doo Show,ABC,1,"Scooby-Doo, Where's the Crew?",7.3,77,11/27/1976,24 mins,TV Series
+67,The Scooby-Doo Show,ABC,1,The Ghost That Sacked the Quarterback,6.8,75,12/4/1976,24 mins,TV Series
+68,The Scooby-Doo Show,ABC,1,The Ghost of the Bad Humor Man,7.7,84,12/11/1976,24 mins,TV Series
+69,The Scooby-Doo Show,ABC,1,The Spirits of '76,7.5,81,12/18/1976,24 mins,TV Series
+70,The Scooby-Doo Show,ABC,2,The Curse of the Viking Lake,7.4,71,9/10/1977,24 mins,TV Series
+71,Laff-a-Lympics,ABC,1,The Swiss Alps,6.9,25,9/10/1977,12 mins,TV Series (segmented)
+72,Laff-a-Lympics,ABC,1,"Tokyo, Japan",6.9,25,9/10/1977,12 mins,TV Series (segmented)
+73,The Scooby-Doo Show,ABC,2,Vampire Bats and Scaredy Cats,8.2,104,9/17/1977,24 mins,TV Series
+74,Laff-a-Lympics,ABC,1,Acapulco,6.3,23,9/17/1977,12 mins,TV Series (segmented)
+75,Laff-a-Lympics,ABC,1,England,6.3,23,9/17/1977,12 mins,TV Series (segmented)
+76,The Scooby-Doo Show,ABC,2,"Hang in There, Scooby-Doo",7.4,76,9/24/1977,24 mins,TV Series
+77,Laff-a-Lympics,ABC,1,Florida,7.1,22,9/24/1977,12 mins,TV Series (segmented)
+78,Laff-a-Lympics,ABC,1,China,7.1,22,9/24/1977,12 mins,TV Series (segmented)
+79,The Scooby-Doo Show,ABC,2,The Chiller Diller Movie Thriller,7.9,77,10/1/1977,24 mins,TV Series
+80,Laff-a-Lympics,ABC,1,The Sahara Desert,7.2,21,10/1/1977,12 mins,TV Series (segmented)
+81,Laff-a-Lympics,ABC,1,Scotland,7.2,21,10/1/1977,12 mins,TV Series (segmented)
+82,The Scooby-Doo Show,ABC,2,The Spooky Case of the Grand Prix Race,7.4,75,10/8/1977,24 mins,TV Series
+83,Laff-a-Lympics,ABC,1,France,6.8,19,10/8/1977,11 mins,TV Series (segmented)
+84,Laff-a-Lympics,ABC,1,Australia,6.8,19,10/8/1977,11 mins,TV Series (segmented)
+85,The Scooby-Doo Show,ABC,2,The Ozrk Witch,8.1,78,10/15/1977,24 mins,TV Series
+86,Laff-a-Lympics,ABC,1,"Athens, Greece",6.8,19,10/15/1977,12 mins,TV Series (segmented)
+87,Laff-a-Lympics,ABC,1,The Ozarks,6.8,19,10/15/1977,12 mins,TV Series (segmented)
+88,The Scooby-Doo Show,ABC,2,Creepy Cruise,7.7,78,10/22/1977,24 mins,TV Series
+89,Laff-a-Lympics,ABC,1,Italy,6.6,18,10/22/1977,12 mins,TV Series (segmented)
+90,Laff-a-Lympics,ABC,1,"Kitty Hawk, North Carolina",6.6,18,10/22/1977,12 mins,TV Series (segmented)
+91,Laff-a-Lympics,ABC,1,"Kitty Hawk, North Carolina",6.6,18,10/22/1977,12 mins,TV Series (segmented)
+92,The Scooby-Doo Show,ABC,2,The Creepy Heap from the Deep,7.4,71,10/29/1977,24 mins,TV Series
+93,Laff-a-Lympics,ABC,1,Egypt,6.4,18,10/29/1977,12 mins,TV Series (segmented)
+94,Laff-a-Lympics,ABC,1,Sherwood Forest,6.4,18,10/29/1977,12 mins,TV Series (segmented)
+95,Laff-a-Lympics,ABC,1,Spain,6,22,11/5/1977,12 mins,TV Series (segmented)
+96,Laff-a-Lympics,ABC,1,The Himalayas,6,22,11/5/1977,12 mins,TV Series (segmented)
+97,Laff-a-Lympics,ABC,1,India,6.7,23,11/12/1977,12 mins,TV Series (segmented)
+98,Laff-a-Lympics,ABC,1,Israel,6.7,23,11/12/1977,12 mins,TV Series (segmented)
+99,Laff-a-Lympics,ABC,1,Africa,6.4,20,11/19/1977,12 mins,TV Series (segmented)
+100,Laff-a-Lympics,ABC,1,San Francisco,6.4,20,11/19/1977,12 mins,TV Series (segmented)
+101,Laff-a-Lympics,ABC,1,The Grand Canyon,6.3,22,11/26/1977,12 mins,TV Series (segmented)
+102,Laff-a-Lympics,ABC,1,Ireland,6.3,22,11/26/1977,12 mins,TV Series (segmented)
+103,Laff-a-Lympics,ABC,1,Hawaii,6.9,18,12/3/1977,12 mins,TV Series (segmented)
+104,Laff-a-Lympics,ABC,1,Norway,6.9,18,12/3/1977,12 mins,TV Series (segmented)
+105,Laff-a-Lympics,ABC,1,North Pole,6.8,18,12/10/1977,12 mins,TV Series (segmented)
+106,Laff-a-Lympics,ABC,1,Tahiti,6.8,18,12/10/1977,12 mins,TV Series (segmented)
+107,Laff-a-Lympics,ABC,1,Arizona,6.9,18,12/17/1977,12 mins,TV Series (segmented)
+108,Laff-a-Lympics,ABC,1,Holland,6.9,18,12/17/1977,NULL,TV Series (segmented)
+109,Laff-a-Lympics,ABC,1,Quebec,7,21,12/24/1977,12 mins,TV Series (segmented)
+110,Laff-a-Lympics,ABC,1,Baghdad,7,21,12/24/1977,12 mins,TV Series (segmented)
+111,The Scooby-Doo Show,ABC,3,Watch Out! The Willawa!,7.5,96,9/9/1978,22 mins,TV Series
+112,Laff-a-Lympics,ABC,2,Russia,6.7,13,9/9/1978,12 mins,TV Series (segmented)
+113,Laff-a-Lympics,ABC,2,Caribbean,6.7,13,9/9/1978,12 mins,TV Series (segmented)
+114,The Scooby-Doo Show,ABC,3,A Creepy Tangle in the Bermuda Triangle,7.3,101,9/16/1978,23 mins,TV Series
+115,Laff-a-Lympics,ABC,2,New York,6.9,15,9/16/1978,12 mins,TV Series (segmented)
+116,Laff-a-Lympics,ABC,2,Turkey,6.9,15,9/16/1978,12 mins,TV Series (segmented)
+117,The Scooby-Doo Show,ABC,3,A Scary Night with a Snow Beast Fright,7.1,98,9/23/1978,23 mins,TV Series
+118,Laff-a-Lympics,ABC,2,South America,6.6,15,9/23/1978,12 mins,TV Series (segmented)
+119,Laff-a-Lympics,ABC,2,Transylvania,6.6,15,9/23/1978,12 mins,TV Series (segmented)
+120,The Scooby-Doo Show,ABC,3,To Switch a Witch,8,107,9/30/1978,23 mins,TV Series
+121,Laff-a-Lympics,ABC,2,French Riviera,6.6,16,9/30/1978,NULL,TV Series (segmented)
+122,Laff-a-Lympics,ABC,2,New Zealand,6.6,16,9/30/1978,12 mins,TV Series (segmented)
+123,The Scooby-Doo Show,ABC,3,The Tar Monster,7.6,92,10/7/1978,22 mins,TV Series
+124,Laff-a-Lympics,ABC,2,New Orleans,6.5,15,10/7/1978,12 mins,TV Series (segmented)
+125,Laff-a-Lympics,ABC,2,Atlantis,6.5,15,10/7/1978,12 mins,TV Series (segmented)
+126,The Scooby-Doo Show,ABC,3,A Highland Fling with a Monstrous Thing,7.7,90,10/14/1978,23 mins,TV Series
+127,Laff-a-Lympics,ABC,2,Morocco,6.4,14,10/14/1978,12 mins,TV Series (segmented)
+128,Laff-a-Lympics,ABC,2,Washington D.C.,6.4,14,10/14/1978,12 mins,TV Series (segmented)
+129,The Scooby-Doo Show,ABC,3,The Creepy Case of Old Iron Face,7.7,80,10/21/1978,23 mins,TV Series
+130,Laff-a-Lympics,ABC,2,Canada,6.2,13,10/21/1978,12 mins,TV Series (segmented)
+131,Laff-a-Lympics,ABC,2,"Warsaw, Poland",6.2,13,10/21/1978,12 mins,TV Series (segmented)
+132,The Scooby-Doo Show,ABC,3,"Jeepers, It's the Jaguaro!",7.2,91,10/28/1978,22 mins,TV Series
+133,Laff-a-Lympics,ABC,2,Siam,6.8,12,10/28/1978,12 mins,TV Series (segmented)
+134,Laff-a-Lympics,ABC,2,The Moon,6.8,12,10/28/1978,12 mins,TV Series (segmented)
+135,The Scooby-Doo Show,ABC,3,Make a Beeline Away from that Feline,8,88,11/4/1978,23 mins,TV Series
+136,The Scooby-Doo Show,ABC,3,The Creepy Creature of Vulture's Claw,7.5,80,11/11/1978,23 mins,TV Series
+137,The Scooby-Doo Show,ABC,3,The Diabolical Disc Demon,7.5,84,11/18/1978,23 mins,TV Series
+138,The Scooby-Doo Show,ABC,3,Scooby's Chinese Fortune Kooky Caper,7.5,85,11/25/1978,23 mins,TV Series
+139,The Scooby-Doo Show,ABC,3,A Menace in Venice,7.5,92,12/2/1978,23 mins,TV Series
+140,The Scooby-Doo Show,ABC,3,Don't Go Near the Fortress of Fear,7.2,83,12/9/1978,23 mins,TV Series
+141,The Scooby-Doo Show,ABC,3,The Warlock of Wimbledon,6.8,84,12/16/1978,23 mins,TV Series
+142,The Scooby-Doo Show,ABC,3,The Beast is Awake in Bottomless Lake,7.1,84,12/23/1978,23 mins,TV Series
+143,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Scarab Lives!,7.6,67,9/22/1979,21 mins,TV Series
+144,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Night Ghoul of Wonderworld,7.6,59,9/29/1979,21 mins,TV Series
+145,Scooby-Doo and Scrappy-Doo (first series),ABC,1,Strange Encounters of a Scooby Kind,7.6,54,10/6/1979,21 mins,TV Series
+146,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Neon Phantom of the Roller Disco!,7.4,55,10/13/1979,21 mins,TV Series
+147,Scooby-Doo and Scrappy-Doo (first series),ABC,1,"Shiver and Shake, That Demon's a Snake",7.5,51,10/20/1979,NULL,TV Series
+148,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Scary Sky Skeleton,7.4,51,10/27/1979,21 mins,TV Series
+149,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Demon of the Dugout,7.5,51,11/3/1979,21 mins,TV Series
+150,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Hairy Scare of the Devil Bear,7.3,53,11/10/1979,21 mins,TV Series
+151,Scooby-Doo and Scrappy-Doo (first series),ABC,1,Twenty Thousand Screams Under the Sea,7.6,47,11/17/1979,21 mins,TV Series
+152,Scooby-Doo and Scrappy-Doo (first series),ABC,1,I Left My Neck in San Francisco,8,52,11/24/1979,21 mins,TV Series
+153,Scooby-Doo and Scrappy-Doo (first series),ABC,1,When You Wish Upon a Star Creature,7.2,48,12/1/1979,21 mins,TV Series
+154,Scooby-Doo and Scrappy-Doo (first series),ABC,1,"The Ghoul, the Bat and the Ugly",7.7,52,12/8/1979,21 mins,TV Series
+155,Scooby Goes Hollywood,ABC,Movie,Scooby Goes Hollywood,6.1,1051,12/14/1979,49 mins,Movie
+156,Scooby-Doo and Scrappy-Doo (first series),ABC,1,Rocky Mountain Yiiiii!,7.5,48,12/15/1979,21 mins,TV Series
+157,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Sorcerer's a Menace,7.3,47,12/22/1979,21 mins,TV Series
+158,Scooby-Doo and Scrappy-Doo (first series),ABC,1,"Lock the Door, It's a Minotaur!",7.5,46,12/29/1979,21 mins,TV Series
+159,Scooby-Doo and Scrappy-Doo (first series),ABC,1,The Ransom of Scooby Chief,6.5,47,1/5/1980,21 mins,TV Series
+160,Scooby-Doo and Scrappy-Doo (second series),ABC,1,A Close Encounter with a Strange Kind,7.1,35,11/8/1980,8 mins,TV Series (segmented)
+161,Scooby-Doo and Scrappy-Doo (second series),ABC,1,A Fit Night Out for Bats,7.1,35,11/8/1980,8 mins,TV Series (segmented)
+162,Scooby-Doo and Scrappy-Doo (second series),ABC,1,A Fit Night Out for Bats,7.1,35,11/8/1980,8 mins,TV Series (segmented)
+163,Scooby-Doo and Scrappy-Doo (second series),ABC,1,The Chinese Food Factory,7.1,35,11/8/1980,8 mins,TV Series (segmented)
+164,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Desert Dilemma,7.2,36,11/15/1980,8 mins,TV Series (segmented)
+165,Scooby-Doo and Scrappy-Doo (second series),ABC,1,The Old Cat and Mouse Game,7.2,37,11/15/1980,8 mins,TV Series (segmented)
+166,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Stow-Aways,6.8,32,11/15/1980,8 mins,TV Series (segmented)
+167,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Mummy's the Word,7.2,36,11/22/1980,8 mins,TV Series (segmented)
+168,Scooby-Doo and Scrappy-Doo (second series),ABC,1,"Hang in There, Scooby",7.2,37,11/22/1980,8 mins,TV Series (segmented)
+169,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Stuntman Scooby,7.2,36,11/22/1980,8 mins,TV Series (segmented)
+170,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Three Ding-a-Ling Circus,7.2,37,11/29/1980,NULL,TV Series (segmented)
+171,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Fantastic Island,7.1,31,11/29/1980,8 mins,TV Series (segmented)
+172,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Long John Scrappy,6.8,32,11/29/1980,8 mins,TV Series (segmented)
+173,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Bull Fright,6.8,32,12/6/1980,8 mins,TV Series (segmented)
+174,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby Ghosts West,6.7,36,12/6/1980,8 mins,TV Series (segmented)
+175,Scooby-Doo and Scrappy-Doo (second series),ABC,1,A Bungle in the Jungle,7.1,31,12/6/1980,8 mins,TV Series (segmented)
+176,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Fun Zone,7.1,31,12/13/1980,8 mins,TV Series (segmented)
+177,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Swamp Witch,6.7,36,12/13/1980,8 mins,TV Series (segmented)
+178,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Sir Scooby and the Black Knight,7,29,12/13/1980,8 mins,TV Series (segmented)
+179,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Waxworld,6.7,36,12/20/1980,8 mins,TV Series (segmented)
+180,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby in Wonderland,7,29,12/20/1980,8 mins,TV Series (segmented)
+181,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scrappy's Birthday,7,29,12/20/1980,8 mins,TV Series (segmented)
+182,Scooby-Doo and Scrappy-Doo (second series),ABC,1,South Seas Scare,7,32,12/27/1980,8 mins,TV Series (segmented)
+183,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Swiss Miss,6.7,29,12/27/1980,8 mins,TV Series (segmented)
+184,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Alaskan King Coward,7,32,12/27/1980,8 mins,TV Series (segmented)
+185,Scooby-Doo and Scrappy-Doo (second series),ABC,1,"Et Tu, Scoob?",6.7,29,1/3/1981,8 mins,TV Series (segmented)
+186,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Soggy Bog Scooby,6.7,29,1/3/1981,8 mins,TV Series (segmented)
+187,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby Gumbo,7,32,1/3/1981,8 mins,TV Series (segmented)
+188,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Way Out Scooby,7,32,1/10/1981,8 mins,TV Series (segmented)
+189,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Strongman Scooby,7,32,1/10/1981,8 mins,TV Series (segmented)
+190,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Moonlight Madness,7,32,1/10/1981,8 mins,TV Series (segmented)
+191,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Dog Tag Scooby,7.1,31,1/17/1981,8 mins,TV Series (segmented)
+192,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby at the Center of the World,7.1,31,1/17/1981,8 mins,TV Series (segmented)
+193,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby's Trip to Ahz,7.1,31,1/17/1981,8 mins,TV Series (segmented)
+194,Scooby-Doo and Scrappy-Doo (second series),ABC,1,A Fright at the Opera,7.2,31,1/24/1981,8 mins,TV Series (segmented)
+195,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Robot Ranch,7.1,31,1/24/1981,8 mins,TV Series (segmented)
+196,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Surprised Spies,7.1,31,1/24/1981,8 mins,TV Series (segmented)
+197,Scooby-Doo and Scrappy-Doo (second series),ABC,1,The Invasion of the Scooby Snatchers,7.2,31,1/31/1981,8 mins,TV Series (segmented)
+198,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby Dooby Guru,7.1,31,1/31/1981,8 mins,TV Series (segmented)
+199,Scooby-Doo and Scrappy-Doo (second series),ABC,1,Scooby and the Bandit,7.2,31,1/31/1981,8 mins,TV Series (segmented)
+200,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby-Nocchio,7.4,32,9/19/1981,8 mins,TV Series (segmented)
+201,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Lighthouse Keeper Scooby,7.4,32,9/19/1981,8 mins,TV Series (segmented)
+202,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby's Roots,7.4,32,9/19/1981,8 mins,TV Series (segmented)
+203,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby's Escape from Atlantis,7.2,30,9/26/1981,8 mins,TV Series (segmented)
+204,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Excalibur Scooby,7.2,30,9/26/1981,8 mins,TV Series (segmented)
+205,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby Saves the World,7.1,27,9/26/1981,8 mins,TV Series (segmented)
+206,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby-Dooby Goo,7.1,29,10/3/1981,8 mins,TV Series (segmented)
+207,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Rickshaw Scooby,7.1,29,10/3/1981,8 mins,TV Series (segmented)
+208,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby's Luck of the Irish,7.2,30,10/3/1981,8 mins,TV Series (segmented)
+209,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Backstage Scooby,7.1,29,10/10/1981,8 mins,TV Series (segmented)
+210,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby's House of Mystery,7.1,27,10/10/1981,8 mins,TV Series (segmented)
+211,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Sweet Dreams Scooby,7.1,27,10/10/1981,8 mins,TV Series (segmented)
+212,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby-Doo 2000,7.1,29,10/17/1981,8 mins,TV Series (segmented)
+213,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Punk Rock Scooby,7.1,29,10/17/1981,8 mins,TV Series (segmented)
+214,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Canine to Five,7.4,27,10/17/1981,8 mins,TV Series (segmented)
+215,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Hard Hat Scooby,7.1,27,10/24/1981,8 mins,TV Series (segmented)
+216,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Hothouse Scooby,7.1,29,10/24/1981,8 mins,TV Series (segmented)
+217,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Pigskin Scooby,7.1,32,10/24/1981,8 mins,TV Series (segmented)
+218,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Sopwith Scooby,7.4,27,10/31/1981,8 mins,TV Series (segmented)
+219,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Tenderbigfoot,7.1,32,10/31/1981,8 mins,TV Series (segmented)
+220,Scooby-Doo and Scrappy-Doo (second series),ABC,2,Scooby and the Beanstalk,7.1,32,10/31/1981,8 mins,TV Series (segmented)
+221,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Maltese Mackerel,7.4,25,9/25/1982,8 mins,TV Series (segmented)
+222,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Dumb Waiter Caper,7.4,23,9/25/1982,8 mins,TV Series (segmented)
+223,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Catfish Burglar Caper,7.1,24,10/2/1982,8 mins,TV Series (segmented)
+224,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Movie Monster Menace,7.3,25,10/2/1982,8 mins,TV Series (segmented)
+225,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Super Teen Shaggy,6.9,26,10/9/1982,8 mins,TV Series (segmented)
+226,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Basketball Bumblers,7.4,25,10/9/1982,8 mins,TV Series (segmented)
+227,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Beauty Constest Caper,7.3,27,10/16/1982,8 mins,TV Series (segmented)
+228,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Stake-out at the Take-out,6.9,26,10/16/1982,8 mins,TV Series (segmented)
+229,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Who's Scooby-Doo?,7.3,27,10/23/1982,8 mins,TV Series (segmented)
+230,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Double Trouble Date,7.3,25,10/23/1982,8 mins,TV Series (segmented)
+231,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Cable Car Caper,7.4,24,10/30/1982,8 mins,TV Series (segmented)
+232,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Muscle Trouble,7.1,23,10/30/1982,8 mins,TV Series (segmented)
+233,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Comic Book Caper,7.4,23,11/6/1982,8 mins,TV Series (segmented)
+234,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Misfortune Teller,7.3,23,11/6/1982,8 mins,TV Series (segmented)
+235,Scooby-Doo and Scrappy-Doo (second series),ABC,3,A Gem of a Case,7.1,25,11/13/1982,8 mins,TV Series (segmented)
+236,Scooby-Doo and Scrappy-Doo (second series),ABC,3,From Bad to Curse,7.3,23,11/13/1982,8 mins,TV Series (segmented)
+237,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Disappearing Car Caper,7,23,11/20/1982,8 mins,TV Series (segmented)
+238,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Scooby-Doo and Genie-Poo,7.1,25,11/20/1982,8 mins,TV Series (segmented)
+239,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Close Encounter of the Worst Kind,7.2,23,11/27/1982,8 mins,TV Series (segmented)
+240,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Captain Canine Caper,7.2,23,11/27/1982,8 mins,TV Series (segmented)
+241,Scooby-Doo and Scrappy-Doo (second series),ABC,3,The Incredible Cat Lady Caper,7,23,12/4/1982,8 mins,TV Series (segmented)
+242,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Picnic Poopers,7.1,23,12/4/1982,8 mins,TV Series (segmented)
+243,Scooby-Doo and Scrappy-Doo (second series),ABC,3,One Million Years Before Lunch,7.1,24,12/11/1982,8 mins,TV Series (segmented)
+244,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Where's the Wolf,7.4,24,12/11/1982,8 mins,TV Series (segmented)
+245,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Hoedown Showdown,6.8,26,12/19/1982,8 mins,TV Series (segmented)
+246,Scooby-Doo and Scrappy-Doo (second series),ABC,3,Snow Job Too Small,6.8,26,12/19/1982,8 mins,TV Series (segmented)
+247,The New Scooby and Scrappy Doo Show,ABC,1,Scooby the Barbarian,7.4,27,9/10/1983,NULL,TV Series (segmented)
+248,The New Scooby and Scrappy Doo Show,ABC,1,No Sharking Zone,7.4,27,9/10/1983,11 mins,TV Series (segmented)
+249,The New Scooby and Scrappy Doo Show,ABC,1,Scoobygeist,7.5,21,9/10/1983,11 mins,TV Series (segmented)
+250,The New Scooby and Scrappy Doo Show,ABC,1,The Quagmire Quake Caper,7.5,21,9/10/1983,11 mins,TV Series (segmented)
+251,The New Scooby and Scrappy Doo Show,ABC,1,Hound of the Scoobyvilles,7.5,17,9/17/1983,11 mins,TV Series (segmented)
+252,The New Scooby and Scrappy Doo Show,ABC,1,The Dinosaur Deception,7.5,17,9/17/1983,11 mins,TV Series (segmented)
+253,The New Scooby and Scrappy Doo Show,ABC,1,The Creature Came from The Chemlab,7.7,20,9/17/1983,11 mins,TV Series (segmented)
+254,The New Scooby and Scrappy Doo Show,ABC,1,"No Thanks, Masked Manx",7.7,20,9/17/1983,11 mins,TV Series (segmented)
+255,The New Scooby and Scrappy Doo Show,ABC,1,Scooby of the Jungle,7.2,18,9/24/1983,11 mins,TV Series (segmented)
+256,The New Scooby and Scrappy Doo Show,ABC,1,"Scooby-Doo and Cyclops, Too",7.2,18,9/24/1983,11 mins,TV Series (segmented)
+257,The New Scooby and Scrappy Doo Show,ABC,1,Scooby Roo,7.5,15,10/1/1983,11 mins,TV Series (segmented)
+258,The New Scooby and Scrappy Doo Show,ABC,1,Scooby's Gold Medal Gambit,7.5,15,10/1/1983,11 mins,TV Series (segmented)
+259,The New Scooby and Scrappy Doo Show,ABC,1,Wizards and Warlocks,7.3,15,10/8/1983,11 mins,TV Series (segmented)
+260,The New Scooby and Scrappy Doo Show,ABC,1,Scoobsie,7.3,15,10/8/1983,11 mins,TV Series (segmented)
+261,The New Scooby and Scrappy Doo Show,ABC,1,The Mark of Scooby,7.1,17,10/15/1983,11 mins,TV Series (segmented)
+262,The New Scooby and Scrappy Doo Show,ABC,1,The Crazy Carnival Caper,7.1,17,10/15/1983,11 mins,TV Series (segmented)
+263,The New Scooby and Scrappy Doo Show,ABC,1,Scooby and the Minotaur,7.4,18,10/29/1983,11 mins,TV Series (segmented)
+264,The New Scooby and Scrappy Doo Show,ABC,1,Scooby Pinch Hits,7.4,18,10/29/1983,11 mins,TV Series (segmented)
+265,The New Scooby and Scrappy Doo Show,ABC,1,The Fall Dog,7.2,20,11/5/1983,11 mins,TV Series (segmented)
+266,The New Scooby and Scrappy Doo Show,ABC,1,The Scooby Coupe,7.2,20,11/5/1983,11 mins,TV Series (segmented)
+267,The New Scooby and Scrappy Doo Show,ABC,1,Who's Minding the Monster,6.5,21,11/26/1983,11 mins,TV Series (segmented)
+268,The New Scooby and Scrappy Doo Show,ABC,1,Scooby ala Mode,6.5,21,11/26/1983,11 mins,TV Series (segmented)
+269,The New Scooby and Scrappy Doo Show,ABC,1,Scooby ala Mode,6.5,21,11/26/1983,11 mins,TV Series (segmented)
+270,The New Scooby and Scrappy Doo Show,ABC,1,Where's Scooby-Doo?,6.5,19,12/3/1983,23 mins,TV Series
+271,The New Scooby and Scrappy Doo Show,ABC,1,Wedding Bell Boos!,6.5,23,12/10/1983,23 mins,TV Series
+272,The New Scooby-Doo Mysteries,ABC,1,"Happy Birthday, Scooby-Doo",7.2,45,9/8/1984,23 mins,TV Series
+273,The New Scooby-Doo Mysteries,ABC,1,Scooby's Peep-Hole Pandemonium,7.2,29,9/15/1984,11 mins,TV Series (segmented)
+274,The New Scooby-Doo Mysteries,ABC,1,The Hand of Horror,7.2,29,9/15/1984,11 mins,TV Series (segmented)
+275,The New Scooby-Doo Mysteries,ABC,1,Scoo-Be or Not Scoo-Be?,7.5,29,9/22/1984,11 mins,TV Series (segmented)
+276,The New Scooby-Doo Mysteries,ABC,1,The Stoney Glare Stare,7.5,29,9/22/1984,11 mins,TV Series (segmented)
+277,The New Scooby-Doo Mysteries,ABC,1,Mission: Un-Doo-Able,7,26,9/29/1984,11 mins,TV Series (segmented)
+278,The New Scooby-Doo Mysteries,ABC,1,The Bee Team,7,26,9/29/1984,11 mins,TV Series (segmented)
+279,The New Scooby-Doo Mysteries,ABC,1,Doom Service,7.1,24,10/6/1984,11 mins,TV Series (segmented)
+280,The New Scooby-Doo Mysteries,ABC,1,A Code in the Nose,7.1,24,10/6/1984,11 mins,TV Series (segmented)
+281,The New Scooby-Doo Mysteries,ABC,1,Ghost of the Ancient Astronauts,6.9,36,10/13/1984,23 mins,TV Series
+282,The New Scooby-Doo Mysteries,ABC,1,The Night of Living Toys,7.2,23,10/20/1984,11 mins,TV Series (segmented)
+283,The New Scooby-Doo Mysteries,ABC,1,South Pole Vault,7.2,23,10/20/1984,11 mins,TV Series (segmented)
+284,The New Scooby-Doo Mysteries,ABC,1,A Halloween Hassle at Dracula's Castle,8,47,10/27/1984,23 mins,TV Series
+285,The New Scooby-Doo Mysteries,ABC,1,A Night Louse at the White House,7.5,26,11/3/1984,23 mins,TV Series
+286,The New Scooby-Doo Mysteries,ABC,1,Showboat Scooby,7.3,27,11/10/1984,11 mins,TV Series (segmented)
+287,The New Scooby-Doo Mysteries,ABC,1,The 'Dooby Dooby Doo' Ado,7.3,27,11/10/1984,11 mins,TV Series (segmented)
+288,The New Scooby-Doo Mysteries,ABC,1,Sherlock Doo,7.6,27,11/17/1984,NULL,TV Series
+289,The New Scooby-Doo Mysteries,ABC,1,A Scarey Duel with a Cartoon Ghoul,7,24,11/24/1984,11 mins,TV Series (segmented)
+290,The New Scooby-Doo Mysteries,ABC,1,E*I*E*I*O,7,24,11/24/1984,11 mins,TV Series (segmented)
+291,The New Scooby-Doo Mysteries,ABC,1,The Nutcracker Scoob,7.9,60,12/1/1984,23 mins,TV Series
+292,The 13 Ghosts of Scooby-Doo,ABC,1,To All the Ghouls I've Loved Before,7.7,104,9/7/1985,24 mins,TV Series
+293,The 13 Ghosts of Scooby-Doo,ABC,1,Scoobra Kadoobra,7.6,91,9/14/1985,24 mins,TV Series
+294,The 13 Ghosts of Scooby-Doo,ABC,1,Me and My Shadow Demon,7.3,84,9/21/1985,24 mins,TV Series
+295,The 13 Ghosts of Scooby-Doo,ABC,1,Reflections in the Ghoulish Eye,7.2,79,9/28/1985,24 mins,TV Series
+296,The 13 Ghosts of Scooby-Doo,ABC,1,That's Monstertainment,7.9,84,10/5/1985,24 mins,TV Series
+297,The 13 Ghosts of Scooby-Doo,ABC,1,Ship of Ghouls,7.5,74,10/12/1985,24 mins,TV Series
+298,The 13 Ghosts of Scooby-Doo,ABC,1,A Spooky Little Ghoul Like You,7.6,76,10/19/1985,24 mins,TV Series
+299,The 13 Ghosts of Scooby-Doo,ABC,1,When You Witch Upon a Star,7.1,78,10/26/1985,24 mins,TV Series
+300,The 13 Ghosts of Scooby-Doo,ABC,1,It's a Wonderful Scoob,7.4,77,11/2/1985,24 mins,TV Series
+301,The 13 Ghosts of Scooby-Doo,ABC,1,Scooby in Kwacky Land,7.7,76,11/9/1985,24 mins,TV Series
+302,The 13 Ghosts of Scooby-Doo,ABC,1,Coast-to-Ghost,7.4,71,11/16/1985,24 mins,TV Series
+303,The 13 Ghosts of Scooby-Doo,ABC,1,The Ghouliest Show on Earth,7.4,77,11/23/1985,24 mins,TV Series
+304,The 13 Ghosts of Scooby-Doo,ABC,1,Horror-Scope Scoob,7.4,77,12/7/1985,24 mins,TV Series
+305,Hanna-Barbera Superstars 10,Syndication,Special,Scooby-Doo Meets the Boo Brothers,7.1,3727,10/18/1987,92 mins,Movie
+306,A Pup Named Scooby-Doo,ABC,1,A Bicycle Built for Boo,7.3,68,9/10/1988,23 mins,TV Series
+307,A Pup Named Scooby-Doo,ABC,1,The Sludge Monster from the Earth's Core,7.5,58,9/17/1988,23 mins,TV Series
+308,A Pup Named Scooby-Doo,ABC,1,The Schnoock Who Took My Comic Book,8,55,9/24/1988,23 mins,TV Series
+309,A Pup Named Scooby-Doo,ABC,1,Wanted Cheddar Alive,7.5,61,10/1/1988,23 mins,TV Series
+310,A Pup Named Scooby-Doo,ABC,1,For Letter or Worse,7.4,44,10/8/1988,23 mins,TV Series
+311,A Pup Named Scooby-Doo,ABC,1,The Babysitter from Beyond,7.6,50,10/15/1988,23 mins,TV Series
+312,Hanna-Barbera Superstars 10,Syndication,Special,Scooby-Doo and the Ghoul School,6.9,4487,10/16/1988,92 mins,Movie
+313,A Pup Named Scooby-Doo,ABC,1,Snow Place Like Home,7.8,44,10/22/1988,23 mins,TV Series
+314,A Pup Named Scooby-Doo,ABC,1,"Now Museum, Now You Don't",7.7,47,10/29/1988,23 mins,TV Series
+315,A Pup Named Scooby-Doo,ABC,1,Scooby Dude,7,47,11/5/1988,23 mins,TV Series
+316,A Pup Named Scooby-Doo,ABC,1,Ghost Who's Coming to Dinner,7.5,53,11/12/1988,23 mins,TV Series
+317,Hanna-Barbera Superstars 10,Syndication,Special,Scooby-Doo! and the Reluctant Werewolf,6.9,3924,11/13/1988,91 mins,Movie
+318,A Pup Named Scooby-Doo,ABC,1,The Story Stick,6.9,46,11/19/1988,23 mins,TV Series
+319,A Pup Named Scooby-Doo,ABC,1,Robopup,7.2,44,11/26/1988,23 mins,TV Series
+320,A Pup Named Scooby-Doo,ABC,1,Lights...Camera...Monster,7.5,45,12/3/1988,23 mins,TV Series
+321,A Pup Named Scooby-Doo,ABC,2,Curse of the Collar,7.7,43,9/9/1989,23 mins,TV Series
+322,A Pup Named Scooby-Doo,ABC,2,The Return of Commander Cool,7.7,43,9/16/1989,23 mins,TV Series
+323,A Pup Named Scooby-Doo,ABC,2,The Spirit of Rock'n Roll,7.8,43,9/23/1989,23 mins,TV Series
+324,A Pup Named Scooby-Doo,ABC,2,Chickenstein Lives,7.5,38,9/30/1989,23 mins,TV Series
+325,A Pup Named Scooby-Doo,ABC,2,Night of the Living Burger,7.6,42,10/7/1989,23 mins,TV Series
+326,A Pup Named Scooby-Doo,ABC,2,The Computer Walks Among Us,7.7,40,10/14/1989,23 mins,TV Series
+327,A Pup Named Scooby-Doo,ABC,2,Don Gone Scooby,7.2,39,10/21/1989,23 mins,TV Series
+328,A Pup Named Scooby-Doo,ABC,2,"Terror, Thy Name is Zombo",7.8,38,10/28/1989,23 mins,TV Series
+329,A Pup Named Scooby-Doo,ABC,3,Night of the Boogey Biker,7.1,37,9/8/1990,11 mins,TV Series (segmented)
+330,A Pup Named Scooby-Doo,ABC,3,Dawn of the Spooky Shuttle Scare,7.1,37,9/8/1990,11 mins,TV Series (segmented)
+331,A Pup Named Scooby-Doo,ABC,3,Horror of the Haunted Hairpiece,6.9,35,10/6/1990,23 mins,TV Series
+332,A Pup Named Scooby-Doo,ABC,3,Wrestle Maniacs,7.2,38,11/3/1990,23 mins,TV Series
+333,A Pup Named Scooby-Doo,ABC,4,The Were-Doo of Doo Manor,7.2,40,8/3/1991,23 mins,TV Series
+334,A Pup Named Scooby-Doo,ABC,4,Catcher on the Sly,6.6,37,8/10/1991,4 mins,TV Series (segmented)
+335,A Pup Named Scooby-Doo,ABC,4,The Ghost of Mrs. Shusham,6.6,37,8/10/1991,11 mins,TV Series (segmented)
+336,A Pup Named Scooby-Doo,ABC,4,The Wrath of Waitro,6.6,37,8/10/1991,8 mins,TV Series (segmented)
+337,A Pup Named Scooby-Doo,ABC,4,Mayhem of the Moving Mollusk,7.2,32,8/17/1991,23 mins,TV Series
+338,TV Special,TBC,Special,Arabian Nights,5.8,1526,9/3/1994,69 mins,Movie
+339,Johnny Bravo,Cartoon Network,Crossover,Bravo Dooby-Doo,8.4,148,7/25/1997,22 mins,Crossover
+340,Warner Home Video,Warner Home Video,Movie,Scooby-Doo on Zombie Island,7.8,12620,9/22/1998,NULL,Movie
+341,Warner Home Video,Warner Home Video,Movie,Scooby-Doo and the Witch's Ghost,7.3,6527,10/5/1999,66 mins,Movie
+342,The Scooby-Doo Project,Cartoon  Network,Special,The Scooby-Doo Project,7.4,390,10/31/1999,21 mins,TV Series
+343,Warner Home Video,Warner Home Video,Movie,Scooby-Doo and the Alien Invaders,6.9,5625,10/3/2000,NULL,Movie
+344,Warner Home Video,Warner Home Video,Movie,Scooby-Doo and the Cyber Chase,7,6632,10/9/2001,73 mins,Movie
+345,Night of the Living Doo,Cartoon Network,Special,Night of the Living Doo,7.2,256,10/31/2001,16 mins,TV Series
+346,Warner Bros. Picture,Warner Bros. Picture,Movie,Scooby-Doo,5.1,100951,6/14/2002,87 mins,Movie (Theatrical)
+347,"Harvey Birdman, Attorney at Law",Adult Swim,Crossover,Shaggy Busted,8.1,133,7/7/2002,12 mins,Crossover
+348,What's New Scooby-Doo?,The WB,1,There's No Creature Like Snow Creature,7.5,176,9/14/2002,21 mins,TV Series
+349,What's New Scooby-Doo?,The WB,1,3-D Struction,7.4,150,9/21/2002,21 mins,TV Series
+350,What's New Scooby-Doo?,The WB,1,Space Ape and the Cape,7.6,151,9/28/2002,21 mins,TV Series
+351,What's New Scooby-Doo?,The WB,1,Big Scare in the Big Easy,7.7,142,10/5/2002,21 mins,TV Series
+352,What's New Scooby-Doo?,The WB,1,"It's Mean, It's Green, It's the Mystery Machine",7.6,144,10/26/2002,21 mins,TV Series
+353,What's New Scooby-Doo?,The WB,1,Riva Ras Regas,7.5,125,11/2/2002,21 mins,TV Series
+354,What's New Scooby-Doo?,The WB,1,Roller Ghoster Ride,7.7,133,11/9/2002,21 mins,TV Series
+355,What's New Scooby-Doo?,The WB,1,"Safari, So Goodie!",7.1,130,11/23/2002,21 mins,TV Series
+356,What's New Scooby-Doo?,The WB,1,She Sees Sea Monsters by the Sea Shore,7.1,122,11/30/2002,21 mins,TV Series
+357,What's New Scooby-Doo?,The WB,1,A Scooby-Doo! Christmas,7.5,137,12/13/2002,21 mins,TV Series
+358,What's New Scooby-Doo?,The WB,1,Toy Scary Boo,7.7,122,2/1/2003,21 mins,TV Series
+359,What's New Scooby-Doo?,The WB,1,Lights! Camera! Mayhem!,7.5,115,2/15/2003,21 mins,TV Series
+360,What's New Scooby-Doo?,The WB,1,Pompii and Circumstance,7.1,110,2/22/2003,21 mins,TV Series
+361,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Legend of the Vampire,6.6,NULL,3/4/2003,72 mins,Movie
+362,What's New Scooby-Doo?,The WB,1,The Unnatural,7.3,110,3/22/2003,21 mins,TV Series
+363,What's New Scooby-Doo?,The WB,2,Big Appetite in Little Tokyo,7.2,112,9/13/2003,21 mins,TV Series
+364,What's New Scooby-Doo?,The WB,2,Mummy Scares Best,7.6,102,9/20/2003,21 mins,TV Series
+365,What's New Scooby-Doo?,The WB,2,The Fast and the Wormious,7.4,104,9/27/2003,21 mins,TV Series
+366,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Monster of Mexico,6.5,3462,9/30/2003,72 mins,Movie
+367,What's New Scooby-Doo?,The WB,2,High-Tech House of Horrors,7.5,101,10/4/2003,21 mins,TV Series
+368,What's New Scooby-Doo?,The WB,2,The Vampire Strikes Back,7.4,105,10/18/2003,21 mins,TV Series
+369,What's New Scooby-Doo?,The WB,2,A Scooby-Doo Halloween,7.6,129,10/25/2003,21 mins,TV Series
+370,What's New Scooby-Doo?,The WB,2,Homeward Hound,7.2,97,10/25/2003,21 mins,TV Series
+371,What's New Scooby-Doo?,The WB,2,The San Franpsycho,7.3,103,3/20/2004,21 mins,TV Series
+372,What's New Scooby-Doo?,The WB,2,Simple Plan and the Invisible Madman,7.5,113,3/22/2004,21 mins,TV Series
+373,What's New Scooby-Doo?,The WB,2,Recipe for Disaster,7.5,109,3/23/2004,21 mins,TV Series
+374,What's New Scooby-Doo?,The WB,2,Large Dragon at Large,7.5,94,3/24/2004,21 mins,TV Series
+375,What's New Scooby-Doo?,The WB,2,Uncle Scooby and Antarctica,7.4,99,3/25/2004,21 mins,TV Series
+376,What's New Scooby-Doo?,The WB,2,"New Mexico, Old Monster",7.2,96,3/26/2004,21 mins,TV Series
+377,Warner Bros. Picture,Warner Bros. Picture,Movie,Scooby-Doo 2: Monsters Unleashed,5.1,50847,3/26/2004,NULL,Movie (Theatrical)
+378,What's New Scooby-Doo?,The WB,2,It's All Greek to Scooby,7.4,91,3/27/2004,21 mins,TV Series
+379,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Loch Ness Monster,6.7,4108,6/24/2004,74 mins,Movie
+380,What's New Scooby-Doo?,The WB,3,Fright House of a Lighthouse,8,128,1/29/2005,21 mins,TV Series
+381,What's New Scooby-Doo?,The WB,3,"Go West, Young Scoob",7.2,102,2/5/2005,21 mins,TV Series
+382,Warner Home Video,Warner Home Video,Movie,"Aloha, Scooby-Doo!",6.4,3696,2/8/2005,73 mins,Movie
+383,What's New Scooby-Doo?,The WB,3,A Scooby-Doo Valentine,7.5,97,2/11/2005,21 mins,TV Series
+384,What's New Scooby-Doo?,The WB,3,Wrestle Maniacs,7.4,90,2/12/2005,21 mins,TV Series
+385,What's New Scooby-Doo?,The WB,3,Ready to Scare,7.5,89,2/19/2005,21 mins,TV Series
+386,What's New Scooby-Doo?,The WB,3,Farmed & Dangerous,7.3,101,2/25/2005,21 mins,TV Series
+387,What's New Scooby-Doo?,The WB,3,Diamonds Are a Ghoul's Best Friend,7,96,3/3/2005,21 mins,TV Series
+388,What's New Scooby-Doo?,The WB,3,A Terrifying Round with a Menacing Metallic Clown,7.6,105,3/12/2005,21 mins,TV Series
+389,What's New Scooby-Doo?,The WB,3,Camp Comeoniwannascareya,7.5,100,3/19/2005,21 mins,TV Series
+390,What's New Scooby-Doo?,The WB,3,Block-Long Hong Kong Terror,7.4,88,3/26/2005,21 mins,TV Series
+391,What's New Scooby-Doo?,The WB,3,"Gentlemen, Start Your Monsters!",7.3,87,4/2/2005,21 mins,TV Series
+392,What's New Scooby-Doo?,The WB,3,Gold Paw,7.4,84,4/9/2005,21 mins,TV Series
+393,What's New Scooby-Doo?,The WB,3,Reef Grief!,7.5,92,4/19/2005,21 mins,TV Series
+394,Warner Home Video,Cartoon Network,Movie,Scooby-Doo! in Where's my Mummy?,6.7,2974,11/24/2005,74 mins,Movie
+395,What's New Scooby-Doo?,Cartoon Network,3,E-Scream,7.4,91,7/21/2006,21 mins,TV Series
+396,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Pirates Ahoy!,6.7,2454,9/19/2006,69 mins,Movie
+397,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Shags to Riches,6.1,29,9/23/2006,23 mins,TV Series
+398,Shaggy & Scooby-Doo Get a Clue!,The CW,1,More Fondue for Scooby-Doo,5,21,9/30/2006,22 mins,TV Series
+399,Shaggy & Scooby-Doo Get a Clue!,The CW,1,High Society Scooby,6,22,10/7/2006,23 mins,TV Series
+400,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Party Arty,5.9,19,11/4/2006,23 mins,TV Series
+401,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Smart House,5.9,17,11/11/2006,23 mins,TV Series
+402,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Lightning Strikes Twice,5.5,17,11/18/2006,22 mins,TV Series
+403,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Don't Feed the Animals,5.8,18,2/2/2007,23 mins,TV Series
+404,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Mysterty of the Missing Mystery Solvers,6.9,17,2/10/2007,23 mins,TV Series
+405,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Chefs of Steel,5.1,16,2/17/2007,22 mins,TV Series
+406,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Almost Ghosts,6.1,20,2/24/2007,23 mins,TV Series
+407,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Pole to Pole,6.1,14,3/3/2007,NULL,TV Series
+408,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Big Trouble,5.9,17,4/28/2007,23 mins,TV Series
+409,Shaggy & Scooby-Doo Get a Clue!,The CW,1,Operation Dog and Hippy Boy,5.1,14,5/5/2007,22 mins,TV Series
+410,Warner Home Video,Cartoon Network,Movie,"Chill Out, Scooby-Doo!",6.7,2511,8/31/2007,73 mins,Movie
+411,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Shaggy and Scooby World,5.3,15,9/22/2007,23 mins,TV Series
+412,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Almost Purr-fect,5.2,16,9/29/2007,23 mins,TV Series
+413,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Inside Job,5.9,18,10/6/2007,22 mins,TV Series
+414,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Zoinksman,5.5,14,10/13/2007,23 mins,TV Series
+415,Shaggy & Scooby-Doo Get a Clue!,The CW,2,The Many Faces of Evil,5.4,13,11/3/2007,23 mins,TV Series
+416,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Crusin' for a Brusin',5.6,11,11/10/2007,22 mins,TV Series
+417,Shaggy & Scooby-Doo Get a Clue!,The CW,2,There's a Doctor in the House,5.5,11,12/1/2007,23 mins,TV Series
+418,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Super Scary Movie Night,5.4,11,1/26/2008,22 mins,TV Series
+419,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Runaway Robi,4.8,9,2/2/2008,23 mins,TV Series
+420,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Don't Get a Big Head,4.6,9,2/16/2008,23 mins,TV Series
+421,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Scooby Dudes,6.2,13,2/23/2008,23 mins,TV Series
+422,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Zoinks the Wonder Dog,5.1,9,3/8/2008,23 mins,TV Series
+423,Shaggy & Scooby-Doo Get a Clue!,The CW,2,Uncle Albert Alert,5.8,9,3/15/2008,23 mins,TV Series
+424,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Goblin King,6.4,NULL,10/8/2008,74 mins,Movie
+425,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Samurai Sword,6.5,2182,4/7/2009,75 mins,Movie
+426,Warner Home Video,Cartoon Network,Movie,Scooby-Doo! The Mystery Begins,5.3,5805,9/13/2009,NULL,Movie
+427,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Abracadabra-Doo,7.1,2009,2/16/2010,76 mins,Movie
+428,Scooby-Doo Mystery Incorporated,Cartoon  Network,1,Beware the Beast From Below,7.9,337,4/5/2010,23 mins,TV Series
+429,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Creeping Creatures,7.8,304,7/19/2010,23 mins,TV Series
+430,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Secret of the Ghost Rig,7.7,267,7/26/2010,23 mins,TV Series
+431,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Revenge of the Man Crab,7.7,255,8/2/2010,22 mins,TV Series
+432,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Song of Mystery,8,254,8/9/2010,22 mins,TV Series
+433,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Legend of Alice May,8.5,263,8/16/2010,23 mins,TV Series
+434,Scooby-Doo Mystery Incorporated,Cartoon Network,1,In Fear of the Phantom,8.2,256,8/23/2010,23 mins,TV Series
+435,Scooby-Doo Mystery Incorporated,CartoonNetwork,1,The Grasp of the Gnome,7.8,229,8/30/2010,23 mins,TV Series
+436,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Battle of the Humungonauts,7.6,221,9/7/2010,23 mins,TV Series
+437,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Camp Scare,7.3,2566,9/14/2010,72 mins,Movie
+438,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Howl of the Fright Hound,8.2,235,10/4/2010,23 mins,TV Series
+439,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Secret Serum,8.1,225,10/11/2010,22 mins,TV Series
+440,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Shrieking Madness,8.4,246,10/18/2010,22 mins,TV Series
+441,Scooby-Doo Mystery Incorporated,Cartoon Network,1,When the Cicada Calls,8,224,10/25/2010,22 mins,TV Series
+442,Warner Home Video,Cartoon Network,Movie,Scooby-Doo! Curse of the Lake Monster,4.9,4081,3/1/2011,81 mins,Movie
+443,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Mystery Solvers Club State Finals,8.2,254,5/3/2011,22 mins,TV Series
+444,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Wild Brood,7.7,221,5/10/2011,22 mins,TV Series
+445,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Where Walks Aphrodite,8.2,228,5/17/2011,21 mins,TV Series
+446,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Escape from Mystery Manor,8.8,250,5/24/2011,22 mins,TV Series
+447,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Dragon's Secret,8.2,211,5/31/2011,22 mins,TV Series
+448,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Nightfright,8.5,227,6/7/2011,22 mins,TV Series
+449,Scooby-Doo Mystery Incorporated,Cartoon Network,1,The Siren's Song,8.1,203,6/14/2011,23 mins,TV Series
+450,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Menace of the Manticore,8.2,212,6/21/2011,22 mins,TV Series
+451,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Attack of the Headless Horror,8.1,196,6/28/2011,22 mins,TV Series
+452,Scooby-Doo Mystery Incorporated,Cartoon Ntwrk,1,A Haunting in Crystal Cove,8.6,211,7/5/2011,22 mins,TV Series
+453,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Dead Justice,8.2,194,7/12/2011,22 mins,TV Series
+454,Scooby-Doo Mystery Incorporated,Cartoon Network,1,Pawn of Shadows,8.8,212,7/19/2011,23 mins,TV Series
+455,Scooby-Doo Mystery Incorporated,Cartoon Network,1,All Fear the Freak,9.2,272,7/26/2011,23 mins,TV Series
+456,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Legend of the Phantosaur,6.8,1899,9/6/2011,77 mins,Movie
+457,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Music of the Vampire,6.5,1573,3/13/2012,78 mins,Movie
+458,Warner Home Video,Warner Home Video,Special,Scooby-Doo! Spooky Games,6.9,195,7/17/2012,23 mins,TV Series
+459,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Night the Clown Cried,8.5,226,7/30/2012,23 mins,TV Series
+460,Scooby-Doo Mystery Incorporated,cartoon_network,2,The House of the Nightmare Witch,7.9,187,7/31/2012,23 mins,TV Series
+461,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Night the Clown Cried II - Tears of Doom,8.4,197,8/1/2012,23 mins,TV Series
+462,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Web of the Dreamweaver!,8.2,192,8/2/2012,23 mins,TV Series
+463,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Hodag of Horror,8.4,188,8/3/2012,23 mins,TV Series
+464,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Art of Darkness,7.7,177,8/6/2012,23 mins,TV Series
+465,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Gathering Gloom,8.2,172,8/7/2012,22 mins,TV Series
+466,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Night on Haunted Mountain,8.3,183,8/8/2012,23 mins,TV Series
+467,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Grrim Judgment,8.3,176,8/9/2012,23 mins,TV Series
+468,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Night Terrors,9.1,202,8/10/2012,23 mins,TV Series
+469,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Midnight Zone,8.7,187,8/13/2012,22 mins,TV Series
+470,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Scarebear,8.2,169,8/14/2012,23 mins,TV Series
+471,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Wrath of the Krampus,8.9,207,8/15/2012,22 mins,TV Series
+472,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Heart of Evil,7.6,174,8/16/2012,22 mins,TV Series
+473,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Theater of Doom,8.6,180,8/17/2012,22 mins,TV Series
+474,Warner Home Video,Warner Home Video,Movie,Big Top Scooby-Doo!,6.9,1442,10/9/2012,80 mins,Movie
+475,Warner Home Video,Warner Home Video,Special,Scooby-Doo! Haunted Holidays,7,392,10/16/2012,23 mins,TV Series
+476,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Mask of the Blue Falcon,6.8,1485,2/26/2013,76 mins,Movie
+477,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Aliens Among Us,8,172,3/25/2013,22 mins,TV Series
+478,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Horrible Herd,8.3,167,3/25/2013,NULL,TV Series
+479,Scooby-Doo Mystery Incorporated,Cartoon Netwrk,2,Dance of the Undead,8,180,3/26/2013,22 mins,TV Series
+480,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Devouring,7.8,166,3/27/2013,23 mins,TV Series
+481,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Stand and Deliver,8.3,171,3/28/2013,22 mins,TV Series
+482,Scooby-Doo Mystery Incorporated,Cartoon Network,2,The Man in the Mirror,8.9,176,3/29/2013,22 mins,TV Series
+483,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Nightmare in Red,8.9,187,4/2/2013,23 mins,TV Series
+484,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Dark Night of Hunters,8.4,165,4/3/2013,22 mins,TV Series
+485,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Gates of Gloom,8.7,169,4/4/2013,23 mins,TV Series
+486,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Through the Curtain,9,184,4/5/2013,22 mins,TV Series
+487,Scooby-Doo Mystery Incorporated,Cartoon Network,2,Come Undone,9.3,260,4/5/2013,22 mins,TV Series
+488,Warner Home Video,Warner Home Video,Movie,Scooby-Doo Adventure: The Mystery Map!,5.1,294,7/23/2013,45 mins,Movie
+489,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Stage Fright,7.1,1380,8/20/2013,78 mins,Movie
+490,Warner Home Video,Warner Home Video,Special,Scooby-Doo! and the Spooky Scarecrow,7.3,403,9/10/2013,23 mins,TV Series
+491,Warner Home Video,Warner Home Video,Special,Scooby-Doo! Mecha Mutt Menace,6.5,242,9/24/2013,23 mins,TV Series
+492,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Wrestlemania Mystery,6.3,2825,3/25/2014,84 mins,Movie
+493,Warner Home Video,Warner Home Video,Special,Scooby-Doo! Ghastly Goals!,6.6,216,5/13/2014,22 mins,TV Series
+494,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Frankencreepy,6.7,1541,8/19/2014,74 mins,Movie
+495,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Moon Monster Madness,6.5,1269,2/17/2015,80 mins,Movie
+496,Warner Home Video,Warner Home Video,Special,Scooby-Doo! and the Beach Beastie,7.1,188,5/5/2015,22 mins,TV Series
+497,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! KISS: Rock and Roll Mystery,6.5,1891,7/21/2015,79 mins,Movie
+498,"Be Cool, Scooby-Doo!", Cartoon Network,1,Mystery 101,7.9,122,10/5/2015,22 mins,TV Series
+499,"Be Cool, Scooby-Doo!",Cartoon Network,1,Game of Chicken,7.2,102,10/6/2015,22 mins,TV Series
+500,"Be Cool, Scooby-Doo!", Cartoon Network,1,All Pawns on Deck,7.4,101,10/7/2015,22 mins,TV Series
+501,"Be Cool, Scooby-Doo!",Cartoon Ntwrk,1,Poodle Justice,7.3,85,10/8/2015,22 mins,TV Series
+502,"Be Cool, Scooby-Doo!",cartoon_network,1,Grand Scam,7.3,78,10/9/2015,22 mins,TV Series
+503,"Be Cool, Scooby-Doo!",Cartoon Network,1,Grand Scam,7.3,78,10/9/2015,22 mins,TV Series
+504,"Be Cool, Scooby-Doo!",Cartoon Network,1,Trading Chase,7.6,80,10/12/2015,22 mins,TV Series
+505,"Be Cool, Scooby-Doo!",Cartoon Network,1,"Be Quiet, Scooby-Doo!",7.5,84,10/15/2015,22 mins,TV Series
+506,"Be Cool, Scooby-Doo!",Cartoon Network,1,Party Like It's 1899,8.2,88,10/19/2015,NULL,TV Series
+507,"Be Cool, Scooby-Doo!",Cartoon Network,1,Screama Donna,7.4,72,10/20/2015,22 mins,TV Series
+508,"Be Cool, Scooby-Doo!",Cartoon Network,1,Kitchen Frightmare,7.5,NULL,10/21/2015,22 mins,TV Series
+509,"Be Cool, Scooby-Doo!",Cartoon Network,1,"Me, Myself, and A.I.",7.5,72,10/22/2015,22 mins,TV Series
+510,"Be Cool, Scooby-Doo!",Cartoon Netwrk,1,Area 51 Adjacent,7.4,71,10/23/2015,22 mins,TV Series
+511,"Be Cool, Scooby-Doo!",Cartoon Network,1,"Where There's a Will, There's a Wraith",7.5,81,10/28/2015,22 mins,TV Series
+512,Lego,Cartoon Network,Special,Scooby-Doo! Knight Time Terror,6.6,288,11/25/2015,22 mins,TV Series
+513,"Be Cool, Scooby-Doo!",Cartoon Network ,1,Scary Christmas,7.4,75,12/5/2015,22 mins,TV Series
+514,"Be Cool, Scooby-Doo!",Cartoon Network,1,"If You Can't Scooby-Doo the Time,Don't Scooby-Doo the Crime",7.7,72,12/10/2015,24 mins,TV Series
+515,"Be Cool, Scooby-Doo!",Cartoon Network,1,Gremlin on a Plane,7.8,66,2/13/2016,22 mins,TV Series
+516,"Be Cool, Scooby-Doo!",Cartoon Network,1,Sorcerer Snacks Scare,7.9,67,2/20/2016,22 mins,TV Series
+517,"Be Cool, Scooby-Doo!",Cartoon Network,1,Saga of the Swamp Beast,8.2,67,2/27/2016,22 mins,TV Series
+518,"Be Cool, Scooby-Doo!",Cartoon Network,1,"Be Cold, Scooby-Doo!",7.5,63,3/5/2016,22 mins,TV Series
+519,Lego,Warner Home Video,Movie,LEGO Scooby-Doo! Haunted Hollywood,5.9,1144,3/10/2016,74 mins,Movie
+520,"Be Cool, Scooby-Doo!",Cartoon Network,1,Giant Problems,7.4,58,3/12/2016,22 mins,TV Series
+521,"Be Cool, Scooby-Doo!",Boomerang,1,Eating Crow,7.4,54,3/23/2016,22 mins,TV Series
+522,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and WWE: Curse of the Speed Demon,6.2,1179,8/9/2016,81 mins,Movie
+523,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Shaggy's Showdown,6.8,1120,2/14/2017,80 mins,Movie
+524,"Be Cool, Scooby-Doo!",Boomerang,1,I Scooby Dooby Do,7.2,58,6/20/2017,22 mins,TV Series
+525,"Be Cool, Scooby-Doo!",Boomerang,1,El Bandito,7.6,52,6/20/2017,22 mins,TV Series
+526,"Be Cool, Scooby-Doo!",Boomerang,1,Into the Mouth Madcap,7.2,50,6/20/2017,22 mins,TV Series
+527,"Be Cool, Scooby-Doo!",Boomerang,1,The Norse Case Scenario,7.3,48,6/20/2017,22 mins,TV Series
+528,"Be Cool, Scooby-Doo!",Boomerang,1,The People vs. Fred Jones,7.7,50,6/20/2017,22 mins,TV Series
+529,Lego,Warner Home Video,Movie,LEGO Scooby-Doo! Blowout Beach Bash,5.6,565,7/25/2017,77 mins,Movie
+530,"Be Cool, Scooby-Doo!",Boomerang,2,Some Fred Time,8.2,53,11/14/2017,22 mins,TV Series
+531,"Be Cool, Scooby-Doo!",Boomerang,2,There Wolf,7.5,40,11/15/2017,22 mins,TV Series
+532,"Be Cool, Scooby-Doo!",Boomerang,2,Renn Scare,7.4,40,11/15/2017,22 mins,TV Series
+533,"Be Cool, Scooby-Doo!",Boomerang,2,How to Train Your Coward,7.6,42,12/21/2017,22 mins,TV Series
+534,"Be Cool, Scooby-Doo!",Boomerang,2,Worst in Show,7.1,38,11/17/2017,22 mins,TV Series
+535,"Be Cool, Scooby-Doo!",Boomerang,2,Mysteries on the Disorient Express,7.5,42,11/18/2017,22 mins,TV Series
+536,"Be Cool, Scooby-Doo!",Boomerang,2,Halloween,7.4,43,9/28/2017,22 mins,TV Series
+537,"Be Cool, Scooby-Doo!",Boomerang,2,The Curse of Kaniaku,7.5,39,11/19/2017,22 mins,TV Series
+538,"Be Cool, Scooby-Doo!",Boomerang,2,Vote Velma,6.6,40,11/19/2017,22 mins,TV Series
+539,"Be Cool, Scooby-Doo!",Boomerang,2,Scroogey Doo,7.7,47,11/30/2017,22 mins,TV Series
+540,"Be Cool, Scooby-Doo!",Boomerang,2,In Space,8,44,11/20/2017,22 mins,TV Series
+541,"Be Cool, Scooby-Doo!",Boomerang,2,Doo Not Distrub,7.9,50,11/21/2017,22 mins,TV Series
+542,"Be Cool, Scooby-Doo!",Boomerang,2,Silver Scream,7.4,38,11/22/2017,22 mins,TV Series
+543,"Be Cool, Scooby-Doo!",Boomerang,2,Fright of Hand,7.2,35,11/22/2017,22 mins,TV Series
+544,"Be Cool, Scooby-Doo!",Boomerang,2,Greece in the World,6.7,35,11/23/2017,22 mins,TV Series
+545,Warner Home Video,Cartoon Network,Movie,Batman: The Brave and the Bold: Bat-Mite Presents: Batman's Strangest Cases!,6.6,1698,1/9/2018,75 mins,Movie
+546,"Be Cool, Scooby-Doo!",Boomerang,2,American Goth,7.1,41,3/8/2018,22 mins,TV Series
+547,"Be Cool, Scooby-Doo!",Boomerang,2,Omelettes Are Forever,7.2,31,3/9/2018,22 mins,TV Series
+548,"Be Cool, Scooby-Doo!",Boomerang,2,Ghost in the Mystery Machine,7.4,36,3/10/2018,22 mins,TV Series
+549,"Be Cool, Scooby-Doo!",Boomerang,2,Naughty or Ice,7.4,38,3/11/2018,22 mins,TV Series
+550,"Be Cool, Scooby-Doo!",Boomerang,2,Night of the Upsetting Shorts,7.3,39,3/12/2018,22 mins,TV Series
+551,"Be Cool, Scooby-Doo!",Boomerang,2,Junkyard Dogs,6.9,37,3/13/2018,22 mins,TV Series
+552,"Be Cool, Scooby-Doo!",Boomerang,2,Protein Titans 2,6.7,33,3/14/2018,22 mins,TV Series
+553,"Be Cool, Scooby-Doo!",Boomerang,2,World of Witchcraft,6.9,33,3/15/2018,22 mins,TV Series
+554,"Be Cool, Scooby-Doo!",Boomerang,2,Professor Huh? Part 1,7.8,37,3/16/2018,22 mins,TV Series
+555,"Be Cool, Scooby-Doo!",Boomerang,2,Professor Huh? Part 6 3/4,7.9,36,3/17/2018,22 mins,TV Series
+556,"Be Cool, Scooby-Doo!",Boomerang,2,Pizza O'Possumm's,6.8,31,3/18/2018,11 mins,TV Series
+557,"Be Cool, Scooby-Doo!",Boomerang,2,The Curse of Half-Beard's Booty,6.8,31,3/18/2018,11 mins,TV Series
+558,Supernatural,The CW,Crossover,Scoobynatural,9.6,6929,3/29/2018,42 mins,Crossover
+559,Warner Home Video,Warner Home Video,Movie,Daphne & Velma,4.2,1557,5/22/2018,75 mins,Movie
+560,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Gourmet Ghost,7.3,825,9/11/2018,77 mins,Movie
+561,OK K.O.!,Cartoon Netwrk,Crossover,Monster Party,8.1,NULL,10/1/2018,NULL,Crossover
+562,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! and the Curse of the 13th Ghost,6.5,1182,2/5/2019,82 mins,Movie
+563,Scooby-Doo and Guess Who?,Boomerang,1,Revenge of the Swamp Monster,7,126,6/27/2019,22 mins,TV Series
+564,Scooby-Doo and Guess Who?,Boomerang,1,A Mystery Solving Gang Divided,7.9,93,7/2/2019,22 mins,TV Series
+565,Scooby-Doo and Guess Who?,Boomerang,1,Peebles' Pet Show of Terrible Terrors!,7.9,79,7/11/2019,22 mins,TV Series
+566,Scooby-Doo and Guess Who?,Boomerang,1,"Elementary, My Dear Shaggy!",8.1,78,7/18/2019,22 mins,TV Series
+567,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! Return to Zombie Island,5.7,1418,7/21/2019,80 mins,Movie
+568,Scooby-Doo and Guess Who?,Boomerang,1,Ollie Ollie In-Come Free!,7.3,84,7/25/2019,23 mins,TV Series
+569,Scooby-Doo and Guess Who?,Boomerang,1,The Scooby of a Thousand Faces!,8.1,74,8/1/2019,22 mins,TV Series
+570,Scooby-Doo and Guess Who?,Boomerang,1,The Cursed Cabinet of Professor Madds Markson,8.3,70,8/8/2019,22 mins,TV Series
+571,Scooby-Doo and Guess Who?,Boomerang,1,When Urkel-Bots Go Bad!,6.5,74,8/15/2019,22 mins,TV Series
+572,Scooby-Doo and Guess Who?,Boomerang,1,The Fastest Food Fiend!,7.5,52,8/22/2019,23 mins,TV Series
+573,Scooby-Doo and Guess Who?,Boomerang,1,Attack of the Weird Al-Osaurus!,7.5,61,8/29/2019,23 mins,TV Series
+574,Scooby-Doo and Guess Who?,Boomerang,1,"Now You Sia, Now You Don't!",7.4,59,9/5/2019,22 mins,TV Series
+575,Scooby-Doo and Guess Who?,Boomerang,1,Quit Clowning!,7.4,47,9/12/2019,23 mins,TV Series
+576,Scooby-Doo and Guess Who?,Boomerang,1,"What a Night, for a Dark Knight",8.7,84,9/19/2019,22 mins,TV Series
+577,Teen Titans,Cartoon Network,Crossover,Cartoon Feud,6.4,38,10/4/2019,12 mins,Crossover
+578,Warner Bros. Picture,Warner Bros. Picture,Movie,SCOOB!,5.7,20226,5/15/2020,NULL,Movie (Theatrical)
+579,Scooby-Doo and Guess Who?,Boomerang,1,The Nightmare Ghost of Psychic U!,8.1,38,7/2/2020,23 mins,TV Series
+580,Scooby-Doo and Guess Who?,Boomerang,1,"The Sword, the Fox and the Scooby-Doo!",8.8,35,7/2/2020,23 mins,TV Series
+581,Scooby-Doo and Guess Who?,Boomerang,1,One Minuite Mysteries!,7.9,36,7/2/2020,23 mins,TV Series
+582,Scooby-Doo and Guess Who?,Boomerang,1,Hollywood Knights!,8.1,25,7/2/2020,22 mins,TV Series
+583,Scooby-Doo and Guess Who?,Boomerang,1,The New York Underground!,7.8,27,7/2/2020,22 mins,TV Series
+584,Scooby-Doo and Guess Who?,Boomerang,1,Fear the Fire Beast!,7.7,23,7/2/2020,22 mins,TV Series
+585,Scooby-Doo and Guess Who?,Boomerang,1,Too Many Dummies!,8.2,28,7/2/2020,22 mins,TV Series
+586,Scooby-Doo and Guess Who?,Boomerang,1,Dance Matron of Mayhem,7.6,22,7/2/2020,22 mins,TV Series
+587,Scooby-Doo and Guess Who?,Boomerang,1,The Wedding Witch of Wainsly Hall!,8.6,19,7/2/2020,22 mins,TV Series
+588,Scooby-Doo and Guess Who?,Boomerang,1,A Run Cycle Through Time!,7.9,21,7/2/2020,22 mins,TV Series
+589,Scooby-Doo and Guess Who?,Boomerang,1,I Put a Hex on You!,8.4,25,7/2/2020,22 mins,TV Series
+590,Scooby-Doo and Guess Who?,Boomerang,1,The High School Wolfman's Musical Lament!,7.6,27,7/2/2020,23 mins,TV Series
+591,Scooby-Doo and Guess Who?,Boomerang,1,Space Station Scooby,8.2,24,7/2/2020,22 mins,TV Series
+592,Scooby-Doo and Guess Who?,Boomerang,2,"The Phantom, the Talking Dog and the Hot Hot Hot Sauce!",NULL,NULL,10/1/2020,22 mins,TV Series
+593,Scooby-Doo and Guess Who?,Boomerang,2,The Last Inmate!,NULL,NULL,10/1/2020,22 mins,TV Series
+594,Scooby-Doo and Guess Who?,Boomerang,2,The Horrible Haunted Hospital of Dr. Phineas Phrag!,NULL,NULL,10/1/2020,23 mins,TV Series
+595,Scooby-Doo and Guess Who?,Boomerang,2,The Hot Dog Dog!,NULL,NULL,10/1/2020,22 mins,TV Series
+596,Scooby-Doo and Guess Who?,Boomerang,2,A Moveable Mystery!,NULL,NULL,10/1/2020,22 mins,TV Series
+597,Scooby-Doo and Guess Who?,Boomerang,2,The Feast of Dr. Frankenfooder!,NULL,NULL,10/1/2020,22 mins,TV Series
+598,Scooby-Doo and Guess Who?,Boomerang,2,A Fashion Nightmare,NULL,NULL,10/1/2020,22 mins,TV Series
+599,Scooby-Doo and Guess Who?,Boomerang,2,Scooby on Ice!,NULL,NULL,10/1/2020,22 mins,TV Series
+600,Scooby-Doo and Guess Who?,Boomerang,2,Caveman on the Half-Pipe,NULL,NULL,10/1/2020,22 mins,TV Series
+601,Scooby-Doo and Guess Who?,Boomerang,2,The Crown Jewel of Boxing!,NULL,NULL,10/1/2020,22 mins,TV Series
+602,Scooby-Doo and Guess Who?,Boomerang,2,The Internet on Haunted House Hill!,NULL,NULL,10/1/2020,NULL,TV Series
+603,Scooby-Doo and Guess Who?,Boomerang,2,The 7th Inning Scare!,NULL,NULL,10/1/2020,22 mins,TV Series
+604,Scooby-Doo and Guess Who?,Boomerang,2,The Dreaded Remake of Jekyll & Hyde!,NULL,NULL,10/1/2020,22 mins,TV Series
+605,Warner Home Video,Warner Home Video,Movie,"Happy Halloween, Scooby-Doo!",6.3,978,10/6/2020,76 mins,Movie
+606,Warner Home Video,Warner Home Video,Movie,Scooby-Doo! The Sword and the Scoob,6.2,422,2/23/2020,77 mins,Movie
+607,Scooby-Doo and Guess Who?,Boomerang,2,Dark Diner of Route 66!,NULL,NULL,2/25/2021,22 mins,TV Series
+608,Scooby-Doo and Guess Who?,Boomerang,2,Total Jeopardy!,NULL,NULL,11/13/2020,23 mins,TV Series
